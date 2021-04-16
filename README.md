@@ -17,5 +17,5 @@
 ### 🌟 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devkimmy)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌟 Contacts
+### 📬 Contacts
 [![Gmail Badge](https://shields.io/badge/Gmail-critical?logo=Gmail&logoColor=white&style=flat-square)](mailto:geonsu.kim0120@gmail.com) &nbsp; [![Gmail Badge](https://shields.io/badge/Naver-success?logo=Naver&logoColor=white&style=flat-square)](mailto:rmstn9007@naver.com) &nbsp; [![Gmail Badge](https://shields.io/badge/LinkedIn-informational?logo=LinkedIn&logoColor=white&style=flat-square)](https://www.linkedin.com/in/geunsu-kim-079735208/)
