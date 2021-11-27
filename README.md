@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevkimmy%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</br>
-👋 Hello My name is Geunsu. I am a Mobile Engineer interested in 🍎iOS
+👋 Hello Im Geunsu. I'm a Mobile Engineer interested in 🍎iOS
 
 ### 💻 Career
 
